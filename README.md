@@ -22,7 +22,7 @@ Software Engineer with 4+ years of commercial experience in high-load Java backe
 
 ### Technical Stack
 
-- **Languages**: Java (Primary - Core, NMS, Netty, bytecode), C++ (incl. ESP32 / Embedded), Rust, Python, Go
+- **Languages**: Java (Primary - Core, NMS, Netty, bytecode), C++, Go & Python (working knowledge)
 - **Frameworks & Tools**: Spring Boot, Spigot/Paper/Folia API, Gradle, Maven, Git
 - **Data & Infrastructure**: PostgreSQL, MySQL, Docker, Kubernetes (foundational)
 - **Networking & Systems**: TCP/UDP, raw sockets, packet-level telemetry, distributed state synchronization
