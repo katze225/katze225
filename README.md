@@ -1,13 +1,13 @@
 # Oleksandr (katze225)
 
-Software Engineer specializing in Java backend systems, network protocols, and high-load game server architecture. 4+ years of commercial experience designing distributed server infrastructure, real-time packet processing pipelines, and custom game engines from scratch.
+Software Engineer with 4+ years of commercial experience in high-load Java backend, game server architecture, and low-level networking.
 
 ---
 
 ### Selected Commercial & Lead Experience
 
-- **Turnkey Server Architecture**: Architected and delivered 12+ end-to-end backend and game server solutions from scratch, including cross-server trade networks, custom game engines (CSC, SkyBattle), and territory control mechanics.
-- **Persix Server Ecosystem**: Sole lead engineer for a comprehensive 6-month server ecosystem rollout, managing networking, real-time sync, and core game logic.
+- **Turnkey Minecraft Projects & Plugins**: Built 10+ complete Minecraft servers from scratch and developed dozens of custom plugins (both commercial and personal) across modes like BoxPvP, Survival, and SkyBattle, including large-scale core systems.
+- **Persix**: Sole lead developer for a 6-month project built completely from scratch, including 2 custom game modes, proxy setup, and full server infrastructure deployment.
 - **PowerBox & NetherDay**: Designed and launched proprietary game modes with custom server architectures, sustaining 75–90+ concurrent online players under continuous load.
 
 ---
@@ -22,7 +22,7 @@ Software Engineer specializing in Java backend systems, network protocols, and h
 
 ### Technical Stack
 
-- **Languages**: Java (Core, NMS, Netty, bytecode manipulation), C++, Rust, Python
+- **Languages**: Java (Core, NMS, Netty, bytecode), C++ (incl. ESP32 / Embedded), Rust, Python
 - **Frameworks & Tools**: Spring Boot, Spigot/Paper/Folia API, Gradle, Maven, Git
 - **Data & Infrastructure**: PostgreSQL, MySQL, Docker, Kubernetes (foundational)
 - **Networking & Systems**: TCP/UDP, raw sockets, packet-level telemetry, distributed state synchronization
